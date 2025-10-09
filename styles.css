@@ -1,3 +1,18 @@
 img {
-  width: 200px;
+  width: 400px;
+}
+
+h1 {
+    color: blue;
+}
+
+body {
+    text-align: center;
+    background-color: cyan;
+}
+
+p {
+    color: red;
+    font-family: monospace;
+    font-size: 20px;
 }
